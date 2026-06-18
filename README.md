@@ -1,6 +1,6 @@
-# Towards Mobile Learning: The Tradeoffs of Practicing via Fill-in-the-Blank vs Traditional Programming Problems
+# Towards a Framework for Sequencing Scaffolded Practice: Fill-in-the-Blank vs. Open-ended Programming Problems
 
-This repository contains the data used to calculate metrics, generate figures, and analyze statistical relationships between variables in the study "Fill-in-the-blank vs Real Programming: A Comparative Analysis to Find Best Approach to Learn Programming."
+This repository contains the data used to calculate metrics, generate figures, and analyze statistical relationships between variables in the study "Towards a Framework for Sequencing Scaffolded Practice: Fill-in-the-Blank vs. Open-ended Programming Problems"
 
 The dataset directory contains all the necessary data used in the paper.
 
